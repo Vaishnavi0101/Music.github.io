@@ -80,7 +80,7 @@
     transition: 0.2s ease-in;
   }
 .hero-section{
-  background-image: url('./images/img3.jpg');
+  background-image: url('../images/img3.jpg');
  height:100vh;
  display: grid;
  color:#f9f6ff;
